@@ -1,18 +1,12 @@
 Algoritmo "Criança-Esperança-exe"
-//  
-//  
-//
-//
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 14/12/2023
+
 Var
-   // Seção de Declarações das variáveis
+
    D: inteiro
    Valor: Real
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+
    Escreval ("---------------------------")
    Escreval ("     CRIANÇA ESPERANÇA     ")
    Escreval ("---------------------------")
@@ -35,9 +29,9 @@ Inicio
       Leia(Valor)
    Caso 5
       Valor <- 0
-      FimEscolha
-      Escreval ("---------------------------")
-      Escreval ("Sua doação foi de R$", Valor)
-      Escreval ("      Muito Obrigado       ")
-      Escreval ("---------------------------")
+   FimEscolha
+   Escreval ("---------------------------")
+   Escreval ("Sua doação foi de R$", Valor)
+   Escreval ("      Muito Obrigado       ")
+   Escreval ("---------------------------")
 Fimalgoritmo

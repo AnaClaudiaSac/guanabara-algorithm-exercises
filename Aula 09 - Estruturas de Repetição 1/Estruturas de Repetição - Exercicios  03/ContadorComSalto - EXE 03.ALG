@@ -1,0 +1,26 @@
+Algoritmo "contador com salto - Exe 03"
+//
+//
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 08/01/2024
+Var
+   // Seção de Declarações das variáveis
+
+   valor, salto, contador: inteiro
+
+Inicio
+   // Seção de Comandos, procedimento, funções, operadores, etc...
+   contador <- 0
+   Escreva("Quer contar até quanto?: ")
+   Leia(valor)
+   Escreva(" Qual será o valor do salto?: ")
+   Leia(salto)
+   Enquanto (contador <= valor) faca
+      Escreval(contador)
+      contador <- contador + salto
+   FimEnquanto
+   Escreval("Terminei de contar")
+
+
+Fimalgoritmo

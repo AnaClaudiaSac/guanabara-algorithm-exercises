@@ -1,9 +1,5 @@
 Algoritmo "EXE-03"
-//
-//
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 29/12/2023
+
 Var
    // Seção de Declarações das variáveis
    N1, N2: inteiro

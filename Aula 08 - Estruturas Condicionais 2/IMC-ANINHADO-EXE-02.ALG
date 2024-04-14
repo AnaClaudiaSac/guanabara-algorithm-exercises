@@ -1,21 +1,16 @@
 Algoritmo "IMC-Aninhado-exe-02"
-//
-//
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 14/12/2023
+
 Var
-   // Seção de Declarações das variáveis
+
    M, A, IMC: Real
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+
    M <- 60
    A <- 1.70
    IMC <- M / (A ^ 2)
    Escreval( "Seu peso esta ", IMC:5:2)
 
-   ///////////////////////////////////////////////////////////////////////////
    Escreva("Massa (Kg): ")
    Leia(M)
    Escreva("Altura (m): ")
@@ -48,9 +43,6 @@ Inicio
          FimSe
       FimSe
    FimSe
-
-
-// Seção de Comandos, procedimento, funções, operadores, etc...
 
 
 Fimalgoritmo

@@ -1,11 +1,5 @@
 Algoritmo "Exe-01"
-//  
-//  
-//
-//
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 15/12/2023
+
 Var
    // Seção de Declarações das variáveis
    N: inteiro
@@ -226,8 +220,8 @@ Inicio
                                     Se (mes = 12) entao
                                     senao
                                        Escreval("Dezembro")
-                                       senao
-                                        Escreval(" Número Inválido")
+                                    senao
+                                       Escreval(" Número Inválido")
                                     FimSe
                                  FimSe
                               FimSe
